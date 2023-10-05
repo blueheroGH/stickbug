@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/02/50/08/51/360_F_250085110_HYTva7n4e9DGnangPa2hZZUZfj3pVAIc.jpg);
+}
+
+
+
+.topPart {
+    text-align: center;
+    background-color: beige;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bottomPart {
+    text-align: center;
+    margin-top: 5%;
+}
